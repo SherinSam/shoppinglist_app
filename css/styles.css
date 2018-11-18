@@ -1,0 +1,24 @@
+.list {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding:30px;
+    width: 300px;
+    margin-top: 20px;
+    background-color: coral;
+    color: white;
+    margin-left: 0;
+}
+
+.remove {
+    margin-right: 20px;
+    float: right;
+}
+
+
+/*remove li default indentation*/
+#todo {
+  list-style-type: none;
+  list-style-position:inside;
+  margin:0;
+  padding:0; }
+}
